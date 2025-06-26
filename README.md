@@ -1,1 +1,1 @@
-# ShopEZ
+# RockPaperScissors-Game
